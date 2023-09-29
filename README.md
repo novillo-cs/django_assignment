@@ -7,7 +7,7 @@
 * Create a Django project school.
 * Create an app students.
 * Implement a base.html template that displays "Stuyvesant High School".
-* Create a view list_students. Define the following list of students in inside the view ["Paul Smith", "Peter Jackson", "Claire Brown", "Michel Jones"]. Add a cookie in this view. Cookie data: (name: "student_name", and for the value, you are randomly going to choose a student name from your list).
+* Create a view list_students. Define the following list of students in inside the view ["Paul Smith", "Peter Jackson", "Claire Brown", "Michel Jones"]. Add a cookie in this view. Cookie data: (key: "student_name", and for the value, you are randomly going to choose a student name from your list).
 * Create a template for the view list_students, load the base template, and display the names of the students.
 * Optional: If you have extra time, add a CSS file to change the color of the "Stuyvesant High School" text in the base.html template.
 
